@@ -1,0 +1,1421 @@
+{
+    "success": true,
+    "response": {
+        "execution": "72a194fc-b3ae-4cd4-9c83-306d01dbf08b",
+        "airSearchResults": {
+            "brandedResultsWithItineraryPart": {},
+            "mileageProgramsMultiplier": {
+                "smiles": 1.0,
+                "silver": 1.25,
+                "gold": 1.5,
+                "diamond": 2.0,
+                "familyFareMultiplier": {
+                    "LT": 1.0,
+                    "MX": 3.0,
+                    "PL": 2.0,
+                    "PO": 1.0
+                },
+                "minimumProgramValue": {
+                    "Diamond": 1000.0,
+                    "Gold": 500.0
+                }
+            },
+            "searchResultMetaData": {
+                "branded": true,
+                "multipleDateResult": true,
+                "composedResult": false,
+                "interlineRoute": false,
+                "contextShopping": false
+            },
+            "fareFamilies": [
+                {
+                    "brandId": "LT",
+                    "brandLabel": [
+                        {
+                            "programId": "157872",
+                            "languageId": "en_GB",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "en_US",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "es_ES",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "nl_NL",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "fr_FR",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "de_DE",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "it_IT",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "ru_RU",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "sv_SE",
+                            "marketingText": "LIGHT"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "pt_BR",
+                            "marketingText": "LIGHT"
+                        }
+                    ],
+                    "marketingTexts": [
+                        {
+                            "programId": "157872",
+                            "languageId": "en_GB",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "en_US",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "es_ES",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para vuelos operados por una aliada de Gol, consulte las reglas en el sitio www.voegol.com</p></font><font><p>Para Smiles y VoeBiz consulte las reglas en sus sitios web</p></font><font><p>Equipaje registrado no disponible gratuitamente</p></font><font><p>Asignación de asiento estândar con costo adicionale o gratuito dentro del período de check-in</p></font><font><p>Asignación de asiento GOL+ con costo adicionale</p></font><font><p>Anticipación = costo de BRL 100,00. Permitida hasta 6 horas del vuelo original</p></font><font><p>Cancelación o Remarcación = Para emisiones desde 15Set22 = USD 150,00 o 100% de la tarifa, lo que sea menor. Para emisiones desde 29Mar22 hasta el 14Set22 = 80% de la tarifa.</p></font><font><p>Haciendo remarcación de vuelo, se ocorrer diferencia tarifaria, esta se le cobrará</p></font><font><p>Reembolso = No reembolsable</p></font><font><p>Prioridad de check-in, embarque y recogida de equipaje = no aplicable</p></font><font><p>No presentación = Para emisiones desde 15Set22 = USD 200,00 o 100% de la tarifa, lo que sea menor. Para emisiones desde 29Mar22 hasta el 14Set22 = 80% de la tarifa.</p></font><font><p>Descuento para niños (02 años hasta 12 años incompletos) = Para emisiones desde 12Set23 = no aplicable. Para emisiones hasta el 11Set23 = a partir 10% de la tarifa.</p></font><font><p>BRL 1,00 = 2 puntos VoeBiz</p></font><font><p>No acumulación de millas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "nl_NL",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "fr_FR",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "de_DE",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "it_IT",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "ru_RU",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "sv_SE",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        },
+                        {
+                            "programId": "157872",
+                            "languageId": "pt_BR",
+                            "marketingText": "<P ALIGN=\"LEFT\"><FONT FACE=\"VERDANA\" SIZE=\"11\" COLOR=\"#333333\" LETTERSPACING=\"0\" KERNING=\"0\"><font><p>Para voos de parceiras, consulte regras específicas no site www.voegol.com.br</p></font><font><p>Smiles e VoeBiz consulte regras específicas em seus sites</p></font><font><p>Sem bagagem despachada gratuita</p></font><font><p>Marcação de assento padrão sob custo adicional ou gratuito no período de check-in</p></font><font><p>Marcação de assento GOL+ sob custo adicional</p></font><font><p>Antecipação= custo de BRL 100,00. Permitida até 6 horas do voo original</p></font><font><p>Alteração/Cancelamento = Emissões a partir de 15Set22 - BRL 400,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% valor da tarifa.</p></font><font><p>Em caso de alteração, se houver diferença de preço entre o voo original e o novo voo, o valor será cobrado</p></font><font><p>Reembolso= não reembolsável</p></font><font><p>Prioridade de check-in, embarque e retirada de bagagem= não aplicável</p></font><font><p>No show = Emissões a partir de 15Set22 - BRL 500,00 ou 100%, considerando o que for menor. Emissões entre 29Mar22 e 14Set22 - 80% do valor da tarifa.</p></font><font><p>Desconto para crianças (de 2 a 12 anos incompletos)= Emissões a partir de 12Set23 - não aplicável. Emissões até 11Set23 - a partir de 10%.</p></font><font><p>BRL 1,00 = 2 pontos VoeBiz</p></font><font><p>Sem acúmulo de milhas Smiles</p></font></FONT></P>"
+                        }
+                    ],
+                    "brandAncillaries": {
+                        "flightAncillary": []
+                    },
+                    "fareFamilyRemarkRPH": 0
+                }
+            ],
+            "unbundledOffers": [
+                [],
+                []
+            ],
+            "unbundledAlternateDateOffers": [
+                [
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-16T21:35:00",
+                                        "arrival": "2024-10-17T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-17T21:35:00",
+                                        "arrival": "2024-10-18T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-18T21:35:00",
+                                        "arrival": "2024-10-19T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-20T21:35:00",
+                                        "arrival": "2024-10-21T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-21T21:35:00",
+                                        "arrival": "2024-10-22T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 160,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1678,
+                                            "operatingFlightNumber": 1678,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "departureTerminal": "2"
+                                        },
+                                        "origin": "GRU",
+                                        "destination": "PNZ",
+                                        "departure": "2024-10-22T21:35:00",
+                                        "arrival": "2024-10-23T00:15:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "GRU",
+                                        "fareComponentEndAirport": "PNZ",
+                                        "fareComponentDirectionality": "FROM",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 160,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 394.85,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 31.44,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 449.34,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    }
+                ],
+                [
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 4,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-18T04:00:00",
+                                        "arrival": "2024-10-18T06:50:00",
+                                        "bookingClass": "N",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "NNJAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "N",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 523.26,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 478.19,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 594.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 3,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-19T04:00:00",
+                                        "arrival": "2024-10-19T06:50:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 408.48,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 462.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 7,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-21T04:00:00",
+                                        "arrival": "2024-10-21T06:50:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 408.48,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 462.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-22T04:00:00",
+                                        "arrival": "2024-10-22T06:50:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 408.48,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 462.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-23T04:00:00",
+                                        "arrival": "2024-10-23T06:50:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 408.48,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 462.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "brandId": "LT",
+                        "soldout": false,
+                        "bundlePrice": {},
+                        "availableObFees": [],
+                        "seatsRemaining": {
+                            "count": 9,
+                            "lowAvailability": false
+                        },
+                        "itineraryPart": [
+                            {
+                                "segments": [
+                                    {
+                                        "segmentOfferInformation": {
+                                            "flightsMiles": 1044,
+                                            "awardFare": false
+                                        },
+                                        "duration": 170,
+                                        "cabinClass": "Economy",
+                                        "equipment": "738",
+                                        "flight": {
+                                            "flightNumber": 1609,
+                                            "operatingFlightNumber": 1609,
+                                            "airlineCode": "G3",
+                                            "operatingAirlineCode": "G3",
+                                            "stopAirports": [],
+                                            "arrivalTerminal": "2"
+                                        },
+                                        "origin": "PNZ",
+                                        "destination": "GRU",
+                                        "departure": "2024-10-24T04:00:00",
+                                        "arrival": "2024-10-24T06:50:00",
+                                        "bookingClass": "B",
+                                        "layoverDuration": 0,
+                                        "fareBasis": "BNOAAG2G",
+                                        "subjectToGovernmentApproval": false,
+                                        "fareComponentBeginAirport": "PNZ",
+                                        "fareComponentEndAirport": "GRU",
+                                        "fareComponentDirectionality": "TO",
+                                        "@type": "Segment"
+                                    }
+                                ],
+                                "stops": 0,
+                                "totalDuration": 170,
+                                "connectionInformations": [],
+                                "bookingClass": "B",
+                                "programIDs": [
+                                    "157872"
+                                ],
+                                "programCodes": [
+                                    "CFFG3"
+                                ],
+                                "@type": "ItineraryPart"
+                            }
+                        ],
+                        "cabinClass": "Economy",
+                        "offerInformation": {
+                            "discounted": true,
+                            "negotiated": false,
+                            "negotiatedType": "NONE"
+                        },
+                        "total": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 408.48,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "fare": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 363.41,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "taxes": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 45.07,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        },
+                        "totalWithoutDiscount": {
+                            "alternatives": [
+                                [
+                                    {
+                                        "amount": 462.97,
+                                        "currency": "BRL"
+                                    }
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            ],
+            "bundledOffers": [],
+            "bundledAlternateDateOffers": [],
+            "brandedResults": {
+                "itineraryPartBrands": [
+                    [],
+                    []
+                ]
+            },
+            "resultMapping": {
+                "simplifiedRoundTripMapping": {},
+                "combinabilityMapping": []
+            },
+            "travelPartAdvisories": [
+                [],
+                []
+            ],
+            "soldOutDatesOutbound": [],
+            "soldOutDatesInbound": [],
+            "noneScheduledDatesOutbound": [
+                "2024-10-19"
+            ],
+            "noneScheduledDatesInbound": [],
+            "warnings": [],
+            "currency": "BRL",
+            "promocodeValid": false,
+            "negotiateFarePresent": false,
+            "conversionRatesFound": false,
+            "messages": [
+                {
+                    "level": "warn",
+                    "code": "flight_not_found.use_alternate_search",
+                    "details": {
+                        "originalRoute": {
+                            "origin": "GRU",
+                            "destination": "PNZ",
+                            "departure": "2024-10-19T00:00:00"
+                        },
+                        "@type": "AlternateSearchSuggestions"
+                    }
+                }
+            ]
+        }
+    },
+    "notifications": []
+}
